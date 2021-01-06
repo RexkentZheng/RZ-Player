@@ -24,7 +24,7 @@
     "@react-navigation/native": "^5.5.1",
     "@react-navigation/stack": "^5.4.2",
     "add": "^2.0.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.13.0",
     "beautiful-dom": "^1.0.7",
     "jsdom": "^16.2.2",
