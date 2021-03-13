@@ -45,7 +45,7 @@
     "react-native-video": "^4.4.5",
     "xgplayer-hls": "^2.3.9",
     "xgplayer-react": "^2.3.0",
-    "xmldom": "^0.3.0",
+    "xmldom": "^0.5.0",
     "yarn": "^1.22.4"
   },
   "devDependencies": {
